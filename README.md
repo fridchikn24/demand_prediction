@@ -1,2 +1,2 @@
 # demand_prediction
-project predicting demand
+project using time series sales data to predict demand for various products. 
